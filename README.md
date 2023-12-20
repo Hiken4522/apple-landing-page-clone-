@@ -1,4 +1,4 @@
-In this project to try it out clone the repo and run the index.html with live server and you are good to go for making your own changes or to just experience it.
+To try this project, clone the repo and run the index.html with live server and you are good to go for making your own changes or to just experience it.
 
 preview
 
